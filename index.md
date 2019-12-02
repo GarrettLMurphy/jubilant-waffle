@@ -1,4 +1,4 @@
-## Welcome to GitHub
+## Welcome to a GitHub page by me 
 
 You can use the [editor on GitHub](https://github.com/GarrettLMurphy/jubilant-waffle/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](www.google.ie) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
